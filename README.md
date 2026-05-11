@@ -9,9 +9,17 @@
 
 ---
 
-### 💻 Sobre mí:
-Cursando el **primer semestre** y aprendiendo las bases de la programación y la lógica.
-🐍 **Aprendiendo el lenguaje de Python** y bases de datos **MySQL**.
-📍 Rancagua, Chile.
+<p align="center">
+  💻 <b>Sobre mí:</b><br>
+  Cursando el <b>primer semestre</b> y aprendiendo las bases de la programación y la lógica.
+</p>
+
+<p align="center">
+  🐍 <b>Aprendiendo el lenguaje de Python</b> y bases de datos <b>MySQL</b>.
+</p>
+
+<p align="center">
+  📍 Rancagua, Chile.
+</p>
 
 </div>
