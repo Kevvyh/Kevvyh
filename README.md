@@ -12,7 +12,7 @@
     </td>
     <td align="center" width="250">
       <!-- Este es un GIF de un teclado Pixel Art, puedes cambiar el link si prefieres otro -->
-      <img src="https://giphy.com/stickers/transparent-0w3iAc8YzuAC4uSpwz" width="200" />
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXB5ZWh4Z2N1aG1hZGczaWQxNHNzaXUxdmRtOWN3anl0ZGc1dml6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0w3iAc8YzuAC4uSpwz/giphy.gif" width="200" />
     </td>
   </tr>
 </table>
