@@ -23,3 +23,8 @@
 </p>
 
 </div>
+<h2>
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"> My GitHub Stats:</h2>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kevvyh&theme=material-palenight" height="250"/>
+</div>
