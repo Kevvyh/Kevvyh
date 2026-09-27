@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  🐍 <b>Aprendiendo el lenguaje de Python</b> junto con el desarrollo de b<b>Backend y Frontend</b>.
+  🐍 <b>Aprendiendo el lenguaje de Python</b> junto con el desarrollo de <b>Backend y Frontend</b>.
 </p>
 
 <p align="center">
