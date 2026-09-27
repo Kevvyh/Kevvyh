@@ -11,11 +11,11 @@
 
 <p align="center">
   💻 <b>Sobre mí:</b><br>
-  Cursando el <b>primer semestre</b> y aprendiendo las bases de la programación y la lógica.
+  Cursando el <b>segundo semestre</b> y aprendiendo las bases de la programación y la lógica.
 </p>
 
 <p align="center">
-  🐍 <b>Aprendiendo el lenguaje de Python</b> y bases de datos <b>MySQL</b>.
+  🐍 <b>Aprendiendo el lenguaje de Python</b> junto con el desarrollo de b<b>Backend y Frontend</b>.
 </p>
 
 <p align="center">
